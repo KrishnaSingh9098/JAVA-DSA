@@ -12,5 +12,6 @@ public class Whileeloop {
              System.out.println(n);
              n++;
           }
+          sc.close();
     }
 }
