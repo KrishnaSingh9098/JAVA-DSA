@@ -1,7 +1,5 @@
 package Methods;
 
-import java.util.Scanner;
-
 public class ExampleOne {
 
     public static int add(int a, int b) {
